@@ -142,3 +142,7 @@ slackgpt-*.json
 
 # Vector store
 vectorstore/
+
+.idea/
+
+venv3.8/
